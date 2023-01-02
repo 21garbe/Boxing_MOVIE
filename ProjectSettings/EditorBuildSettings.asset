@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d8fd771b0806ca444b644fa841703391
+  - enabled: 1
+    path: Assets/Scenes/CrochetArriere.unity
+    guid: 7e5dbde2771802c44ae719f957008f1b
+  - enabled: 1
+    path: Assets/Scenes/CrochetAvant.unity
+    guid: 014ca7518315291419e62b5c80ba2e30
+  - enabled: 1
+    path: Assets/Scenes/DirectArriere.unity
+    guid: df42a4b0f2b274243afb07d24353a39c
+  - enabled: 1
+    path: Assets/Scenes/DirectAvant.unity
+    guid: 9a78dc7feff3a274a87fa6cc36380b1e
+  - enabled: 1
+    path: Assets/Scenes/UppercutArriere.unity
+    guid: 8c2f7444eed14524e80ea565bf4d49e9
+  - enabled: 1
+    path: Assets/Scenes/UppercutAvant.unity
+    guid: 5514cb4cc64da6545bd01367883b1a9d
+  - enabled: 1
+    path: Assets/Scenes/Freestyle.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 9abdccd86ec9bd845a9b76c9563437d9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 668dfe861312b3b4f8673dfc6490d658, type: 2}
